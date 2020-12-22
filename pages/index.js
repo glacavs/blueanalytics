@@ -2,7 +2,7 @@ import { useState } from "react"
 
 function Home(){
     return <div>
-                <h3>Home</h3>
+                <h3>Home - Analyticsgit</h3>
                <Contador />
                 
             </div>
